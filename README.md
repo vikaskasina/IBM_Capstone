@@ -42,7 +42,7 @@ mobile food vendors - Some 4,000 licensed by the city
 The list can go on...
 Eventhough well funded XYZ Company Ltd. need to choose the correct location to start its first venture.If this is successful they can replicate the same in other locations. First move is very important, thereby choice of location is very important.
 
-### Target Audience:
+### Target:
 
 To recommend the correct location, XYZ Company Ltd has appointed me to lead of the Data Science team. The objective is to locate and recommend to the management which neighborhood of Newyork city will be best choice to start a restaurant. The Management also expects to understand the rationale of the recommendations made.
 
@@ -51,3 +51,13 @@ This would interest anyone who wants to start a new restaurant in Newyork city.
 ### Success Criteria:
 
 The success criteria of the project will be a good recommendation of borough/Neighborhood choice to XYZ Company Ltd based on Lack of such restaurants in that location and nearest suppliers of ingredients.
+
+### Data Section: 
+
+#### Geonames : 
+This will be used to obtain necessary data for the neighbourhoods, postal codes and geographic coordinates in Alberta. This website also offers the option of downloading the data into text files which enables one to format and import a CSV with the necessary dataset.
+
+#### Foursquare :
+This API will be used to leverage and explore venue data to target recommended locations for the prospective business venture.
+
+By merging the data from Geonames and Foursquare we will be able to conclude where starting a non-franchised coffee shop / book store would prove most profitable.
