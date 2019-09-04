@@ -1,9 +1,15 @@
 # IBM_Capstone
 This repository is demonstrate my capstone project of IBM
 
-## The Battle of the Neighborhoods - Part 1
+# The Battle of the Neighborhoods - Part 1
 
-### Introduction & Business Problem :
+## Introduction & Business Problem :
+
+### Introduction
+
+Retail has always been shaped by shrewd merchants with a proclivity for taking risks and choosing the right products at the right time. This has always been considered more of an art than a science. However, with the tools to leverage consumer data, “Winning decisions are increasingly driven by analytics more than instinct, experience, or merchant ‘art’. By leveraging smarter tools—those beyond backward-looking, “hind sighting” analysis—retailers can increasingly make forward-looking predictions that are quickly becoming the “table stakes” necessary to keep up”, says Mckinsey.
+
+In a rapidly evolving world where busy bustling cities are booming with opportunity, when opening a new business, it is of paramount importance to do your homework in order to decide if the location for consideration is going to prove a profitable exercise. As a data scientist, it is my job to assist my clients in their decision-making process.
 
 ### Problem Background:
 
