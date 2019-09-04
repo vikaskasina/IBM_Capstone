@@ -21,25 +21,40 @@ This also means that the market is highly competitive. As it is highly developed
 
 A restaurant is a business which prepares and serves food and drink to customers in return for money, either paid before the meal, after the meal, or with an open account. The City of New York is famous for its excelllent cuisine. It's food culture includes an array of international cuisines influenced by the city's immigrant history.
 
-1.Central and Eastern European immigrants, especially Jewish immigrants - bagels, cheesecake, hot dogs, knishes, and delicatessens
-2.Italian immigrants - New York-style pizza and Italian cuisine
-3.Jewish immigrants and Irish immigrants - pastrami and corned beef
-4.Chinese and other Asian restaurants, sandwich joints, trattorias, diners, and coffeehouses are ubiquitous throughout the city
-mobile food vendors - Some 4,000 licensed by the city
-5.Middle Eastern foods such as falafel and kebabs examples of modern New York street food
-6.It is famous for not just Pizzerias, Cafe's but also for fine dining Michelin starred restaurants.The city is home to "nearly one thousand of the finest and most diverse haute cuisine restaurants in the world", according to Michelin.
-7.So it is evident that to survive in such competitive market it is very important to startegically plan. Various factors need to be studied inorder to decide on the Location such as : 
+1. Central and Eastern European immigrants, especially Jewish immigrants - bagels, cheesecake, hot dogs, knishes, and delicatessens
 
-1.New York Population 
-2.New York City Demographics 
-3.Are there any Farmers Markets, Wholesale markets etc nearby so that the ingredients can be purchased fresh to maintain quality and cost?
-4.Are there any venues like Gyms, Entertainmnet zones, Parks etc nearby where floating population is high etc 
-5.Who are the competitors in that location? 
-6.Segmentation of the Borough 
-7.Untapped markets 
-8.Saturated markets
-9.Cuisine served / Menu of the competitors 
+2. Italian immigrants - New York-style pizza and Italian cuisine
+
+3. Jewish immigrants and Irish immigrants - pastrami and corned beef
+
+4. Chinese and other Asian restaurants, sandwich joints, trattorias, diners, and coffeehouses are ubiquitous throughout the city
+mobile food vendors - Some 4,000 licensed by the city
+
+5. Middle Eastern foods such as falafel and kebabs examples of modern New York street food
+
+6. It is famous for not just Pizzerias, Cafe's but also for fine dining Michelin starred restaurants.The city is home to "nearly one thousand of the finest and most diverse haute cuisine restaurants in the world", according to Michelin.
+
+7. So it is evident that to survive in such competitive market it is very important to startegically plan. Various factors need to be studied inorder to decide on the Location such as : 
+
+(i) New York Population 
+
+(ii) New York City Demographics 
+
+(iii) Are there any Farmers Markets, Wholesale markets etc nearby so that the ingredients can be purchased fresh to maintain quality and cost?
+
+(vi) Are there any venues like Gyms, Entertainmnet zones, Parks etc nearby where floating population is high etc 
+
+(v) Who are the competitors in that location?
+
+(vi) Segmentation of the Borough 
+
+(vii) Untapped markets 
+
+(viii) Saturated markets
+
+(xi) Cuisine served / Menu of the competitors .
 The list can go on...
+
 Eventhough well funded XYZ Company Ltd. need to choose the correct location to start its first venture.If this is successful they can replicate the same in other locations. First move is very important, thereby choice of location is very important.
 
 ### Target:
